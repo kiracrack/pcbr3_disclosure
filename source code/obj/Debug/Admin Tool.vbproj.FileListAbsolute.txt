@@ -1,0 +1,243 @@
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Data.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Deployment.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Drawing.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Windows.Forms.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Xml.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Xml.Linq.dll
+D:\Share Files\Admin Tool\source code\bin\Debug\System.Xml.Linq.xml
+D:\Share Files\Admin Tool\source code\obj\Debug\Admin Tool.vbproj.GenerateResource.Cache
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmProductImporter.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmFindString.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmNewAccount.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmConfirmedBeginingofDay.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmCancelUndisbursedLoans.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmChangeBranch.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessTemplate.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmChangeUserAccess.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.DirReader.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmProductDuplicater.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmLoanProfile.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmClientLoanProfile.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalHistory.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmCenterRetriever.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmAmortSchedRetriver.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmChangePassword.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmBlockUser.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccounts.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalPerformance.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmExtendIssue.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmResolveIssue.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmLoginAccount.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmITServiceLoggingTool.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmClearingSavings.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmClearingClient.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmClearingLoan.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmLoanReleasedCancellation.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmFullPaymentCencellation.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmConnectionSetup.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmPopUnlocker.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmDepTrnRemover.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmChargesDeposit.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalReport.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmClearLog.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmLoanAdjustment.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessForApproval.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmMainMenu.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmNetworkIPInventory.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmAddNetworksIP.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmAddNewIP.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmIPInventory.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.Resources.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmRSBACapture.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTReportTransaction.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTNewReport.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTnewOffice.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTOffices.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmDormantSettings.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmDormantList.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmBranchConnectionSetup.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmSingleMenu.resources
+D:\Share Files\Admin Tool\source code\bin\Debug\Utility_tool.exe.config
+D:\Share Files\Admin Tool\source code\bin\Debug\Utility_tool.exe
+D:\Share Files\Admin Tool\source code\bin\Debug\Utility_tool.pdb
+D:\Share Files\Admin Tool\source code\bin\Debug\Utility_tool.xml
+D:\Share Files\Admin Tool\source code\obj\Debug\Utility_tool.exe
+D:\Share Files\Admin Tool\source code\obj\Debug\Utility_tool.xml
+D:\Share Files\Admin Tool\source code\obj\Debug\Utility_tool.pdb
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmGenAppLive.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmITicketUpdate.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessUpdate.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmResetPassword.resources
+D:\Share Files\Admin Tool\source code\obj\Debug\AdminTool.frmCaptureLoanPaymentSequence.resources
+D:\Share Files\Admin Tool\source code\bin\Debug\MySql.Data.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Data.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Deployment.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Drawing.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Xml.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\Admin Tool\source code\bin\Debug\System.Xml.Linq.xml
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmResetPassword.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmProductImporter.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmFindString.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmNewAccount.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmConfirmedBeginingofDay.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmCancelUndisbursedLoans.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmChangeBranch.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessTemplate.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmChangeUserAccess.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmSingleMenu.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.DirReader.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmProductDuplicater.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmLoanProfile.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmClientLoanProfile.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalHistory.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmCenterRetriever.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmAmortSchedRetriver.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmChangePassword.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmBlockUser.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccounts.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalPerformance.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmExtendIssue.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmResolveIssue.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmLoginAccount.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmITServiceLoggingTool.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmClearingSavings.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmClearingClient.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmClearingLoan.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmLoanReleasedCancellation.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmFullPaymentCencellation.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmConnectionSetup.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPopUnlocker.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmDepTrnRemover.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmChargesDeposit.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalReport.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmClearLog.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmLoanAdjustment.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmDormantSettings.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmDormantList.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessForApproval.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmBranchConnectionSetup.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmMainMenu.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessUpdate.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmITicketUpdate.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmGenAppLive.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmNetworkIPInventory.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmAddNetworksIP.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmAddNewIP.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmIPInventory.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.Resources.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmCaptureLoanPaymentSequence.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmRSBACapture.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTReportTransaction.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTNewReport.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTnewOffice.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTOffices.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\Admin Tool.vbproj.GenerateResource.Cache
+D:\My.Net\Admin Tool\source code\bin\Debug\MySql.Data.dll
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPaymentMissingCorrect.resources
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.frmPCBRImageExporter.resources
+D:\My.Net\Admin Tool\source code\bin\Debug\AdminTool.exe.config
+D:\My.Net\Admin Tool\source code\bin\Debug\AdminTool.exe
+D:\My.Net\Admin Tool\source code\bin\Debug\AdminTool.pdb
+D:\My.Net\Admin Tool\source code\bin\Debug\AdminTool.xml
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.exe
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.xml
+D:\My.Net\Admin Tool\source code\obj\Debug\AdminTool.pdb
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\AdminTool.exe.config
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\AdminTool.exe
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\AdminTool.pdb
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\AdminTool.xml
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\MySql.Data.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Admin Tool\source code\bin\Debug\System.Xml.Linq.xml
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPaymentMissingCorrect.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmResetPassword.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmProductImporter.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmFindString.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmNewAccount.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmConfirmedBeginingofDay.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCancelUndisbursedLoans.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmChangeBranch.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessTemplate.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmChangeUserAccess.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralAutoBackup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralReportTemplate.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralExecuteBackup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralConnectionSetup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralReportDate.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralReportGenerator.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentralReportConnection.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCentraReportDeveloper.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmSingleMenu.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.DirReader.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmProductDuplicater.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmLoanProfile.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClientLoanProfile.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalHistory.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCenterRetriever.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmAmortSchedRetriver.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmChangePassword.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmBlockUser.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccounts.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalPerformance.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmExtendIssue.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmResolveIssue.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmLoginAccount.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmITServiceLoggingTool.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClearingSavings.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClearingClient.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClearingLoan.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmLoanReleasedCancellation.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmFullPaymentCencellation.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmConnectionSetup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPopUnlocker.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmDepTrnRemover.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmChargesDeposit.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmTechnicalReport.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClearLog.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmLoanAdjustment.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmDormantSettings.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmDormantList.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessForApproval.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmBranchConnectionSetup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmMainMenu.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmUserAccessUpdate.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmITicketUpdate.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmGenAppLive.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmNetworkIPInventory.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmAddNetworksIP.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmAddNewIP.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmIPInventory.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmMBOChangeCenter.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmMBOSavingFIlter.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmMBOTagging.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmMBOSetup.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmClientIdentifier.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.Resources.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPCBRImageExporter.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCaptureLoanPaymentSequence.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmRSBACapture.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTReportTransaction.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTNewReport.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTnewOffice.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmPLDTOffices.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\Admin Tool.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.exe
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.xml
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.pdb
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmCorrectClientCenter.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\AdminTool.frmIPPingMonitoring.resources
+D:\My.Net\System Core\Admin Tool\source code\obj\Debug\Admin Tool.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\KB Disclosure\source code\bin\Debug\AdminTool.exe.config
+D:\My.Net\System Core\KB Disclosure\source code\obj\Debug\AdminTool.exe
+D:\My.Net\System Core\KB Disclosure\source code\obj\Debug\AdminTool.xml
+D:\My.Net\System Core\KB Disclosure\source code\obj\Debug\AdminTool.pdb

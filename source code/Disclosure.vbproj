@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24C1C454-A413-4F9B-8B01-C94B3BEA7C1E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Disclosure.My.MyApplication</StartupObject>
+    <RootNamespace>Disclosure</RootNamespace>
+    <AssemblyName>Disclosure</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Disclosure.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Disclosure.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.0.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmConnectionSetup.Designer.vb">
+      <DependentUpon>frmConnectionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConnectionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetPastDueInterest.Designer.vb">
+      <DependentUpon>frmSetPastDueInterest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetPastDueInterest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetCharges.Designer.vb">
+      <DependentUpon>frmSetCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCharges.Designer.vb">
+      <DependentUpon>frmCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetGracePeriod.Designer.vb">
+      <DependentUpon>frmSetGracePeriod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetGracePeriod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSandASGenerator.Designer.vb">
+      <DependentUpon>DSandASGenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DSandASGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBranchConnectionSetup.Designer.vb">
+      <DependentUpon>frmBranchConnectionSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBranchConnectionSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGracePeriodSettings.Designer.vb">
+      <DependentUpon>frmGracePeriodSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGracePeriodSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Amortization.vb" />
+    <Compile Include="Module\Connection.vb" />
+    <Compile Include="Module\DataGridViewPrinter.vb" />
+    <Compile Include="Module\Disclosure.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Other Tool\frmPCBRImageExporter.Designer.vb">
+      <DependentUpon>frmPCBRImageExporter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Other Tool\frmPCBRImageExporter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Tool\frmCaptureLoanPaymentSequence.Designer.vb">
+      <DependentUpon>frmCaptureLoanPaymentSequence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Other Tool\frmCaptureLoanPaymentSequence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other Tool\frmRSBACapture.Designer.vb">
+      <DependentUpon>frmRSBACapture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Other Tool\frmRSBACapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmConnectionSetup.resx">
+      <DependentUpon>frmConnectionSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetPastDueInterest.resx">
+      <DependentUpon>frmSetPastDueInterest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetCharges.resx">
+      <DependentUpon>frmSetCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCharges.resx">
+      <DependentUpon>frmCharges.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetGracePeriod.resx">
+      <DependentUpon>frmSetGracePeriod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSandASGenerator.resx">
+      <DependentUpon>DSandASGenerator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBranchConnectionSetup.resx">
+      <DependentUpon>frmBranchConnectionSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGracePeriodSettings.resx">
+      <DependentUpon>frmGracePeriodSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Tool\frmPCBRImageExporter.resx">
+      <DependentUpon>frmPCBRImageExporter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Tool\frmCaptureLoanPaymentSequence.resx">
+      <DependentUpon>frmCaptureLoanPaymentSequence.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Tool\frmRSBACapture.resx">
+      <DependentUpon>frmRSBACapture.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Time Hot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock--exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\065.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-excel-table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueprint--arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-document-export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exclamation-red-frame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user--plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer--pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer--plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer--arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building--arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building--plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building--plus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building--pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building--exclamation.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\arrow-continue-090-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user--exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\safe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\179.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Program Group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user--arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blog--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook--backarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\063.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer--arrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer--minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico.ico" />
+    <None Include="Resources\notebook--arrow.png" />
+    <None Include="Resources\newspaper.png" />
+    <None Include="Resources\notebooks.png" />
+    <None Include="Resources\search %284%29.png" />
+    <None Include="Resources\Network Service.png" />
+    <None Include="Resources\building--arrow1.png" />
+    <None Include="Resources\building--minus.png" />
+    <None Include="Resources\office-building.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
